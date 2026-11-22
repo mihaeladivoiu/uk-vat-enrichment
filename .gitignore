@@ -224,3 +224,6 @@ __marimo__/
 
 # Local project data
 data/raw/
+
+# macOS
+.DS_Store
