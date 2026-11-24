@@ -60,8 +60,7 @@ def sample_companies():
                 eligible_count += 1
 
                 selected_company = {
-                    column: company[column].strip()
-                    for column in OUTPUT_COLUMNS
+                    column: company[column].strip() for column in OUTPUT_COLUMNS
                 }
 
                 if len(sample) < SAMPLE_SIZE:
