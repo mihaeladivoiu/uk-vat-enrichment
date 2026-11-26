@@ -227,3 +227,6 @@ data/raw/
 
 # macOS
 .DS_Store
+
+# Local experiment backups
+data/processed/previous_run/

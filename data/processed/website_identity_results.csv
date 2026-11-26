@@ -1,102 +1,102 @@
-CompanyNumber,CompanyName,RegAddress.PostCode,CandidateDomain,DNSStatus,WebsiteURL,WebsiteStatus,PagesChecked,CompanyNumberMatch,CompanyNameMatch,PostcodeMatch,EvidenceURLs,IdentityStatus
-SC787793,BHAI EATS LTD,EH6 5NP,bhai.com,resolved,https://www.atom.com/name/Bhai,external_redirect,0,False,False,False,,unverified
-SC787793,BHAI EATS LTD,EH6 5NP,bhai.uk,resolved,https://bhai.uk/,accessible,1,False,False,False,,unverified
-15302200,RUBEN MAYE LTD,EX2 8SB,ruben.co.uk,resolved,http://rubenfamilyhome@gmail.com,external_redirect,0,False,False,False,,unverified
-15302200,RUBEN MAYE LTD,EX2 8SB,ruben.com,resolved,https://ruben.com/,access_not_confirmed,0,False,False,False,,unverified
-15302200,RUBEN MAYE LTD,EX2 8SB,ruben.uk,resolved,https://ruben.uk/,access_not_confirmed,0,False,False,False,,unverified
-11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpressgroup.com,resolved,https://modularexpressgroup.com/,accessible,1,False,False,False,,unverified
-11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpressgroupltd.com,resolved,https://modularexpressgroupltd.com/,accessible,3,False,False,True,https://modularexpressgroupltd.com/contact,unverified
-11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpress.co.uk,resolved,https://modularexpress.co.uk/,accessible,1,False,False,False,,unverified
-11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpress.com,resolved,https://modularexpress.com/,accessible,1,False,False,False,,unverified
-11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modular.co.uk,resolved,https://modular.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modular.com,resolved,https://www.modular.com/,accessible,4,False,False,False,,unverified
-11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modular.uk,resolved,https://modular.uk/,access_not_confirmed,0,False,False,False,,unverified
-10203912,VSCENE LIMITED,NG16 2UP,vscene.co.uk,resolved,https://www.vscene.co.uk/,accessible,1,False,True,False,https://www.vscene.co.uk/,unverified
-10203912,VSCENE LIMITED,NG16 2UP,vscene.com,resolved,https://vscene.com/,accessible,1,False,False,False,,unverified
-00621017,BURKARD MANUFACTURING COMPANY LIMITED,WD3 1PJ,burkard.co.uk,resolved,https://burkard.co.uk/,accessible,1,False,False,True,https://burkard.co.uk/,unverified
-00621017,BURKARD MANUFACTURING COMPANY LIMITED,WD3 1PJ,burkard.com,resolved,https://www.burkard.com/,accessible,2,False,False,False,,unverified
-00621017,BURKARD MANUFACTURING COMPANY LIMITED,WD3 1PJ,burkard.uk,resolved,https://burkard.uk/,access_not_confirmed,0,False,False,False,,unverified
-06771617,CLIFFORD NOMINEES LIMITED,HA5 3FQ,clifford.co.uk,resolved,https://clifford.co.uk/,accessible,1,False,False,False,,unverified
-06771617,CLIFFORD NOMINEES LIMITED,HA5 3FQ,clifford.com,resolved,https://www.directed.com,external_redirect,0,False,False,False,,unverified
-06771617,CLIFFORD NOMINEES LIMITED,HA5 3FQ,clifford.uk,resolved,https://clifford.uk/,access_not_confirmed,0,False,False,False,,unverified
-02456309,CARCO LIMITED,BS4 3QB,carco.co.uk,resolved,https://carco.co.uk/,accessible,1,False,False,False,,unverified
-02456309,CARCO LIMITED,BS4 3QB,carco.com,resolved,https://carco.com/,accessible,1,False,False,False,,unverified
-02456309,CARCO LIMITED,BS4 3QB,carco.uk,resolved,https://carco.uk/,access_not_confirmed,0,False,False,False,,unverified
-15096490,SJE CATERING LTD,TN28 8RB,sje.co.uk,resolved,https://sje.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-15096490,SJE CATERING LTD,TN28 8RB,sje.com,resolved,https://www.sje.com/,accessible,1,False,False,False,,unverified
-15096490,SJE CATERING LTD,TN28 8RB,sje.uk,resolved,https://sje.uk/en-gb,accessible,1,False,False,False,,unverified
-NI733445,K E-H MEDICAL LTD,BT16 1RS,ke.co.uk,resolved,https://ke.co.uk/en-gb,accessible,1,False,False,False,,unverified
-NI733445,K E-H MEDICAL LTD,BT16 1RS,ke.com,resolved,https://ke.com/,access_not_confirmed,0,False,False,False,,unverified
-NI733445,K E-H MEDICAL LTD,BT16 1RS,ke.uk,resolved,https://ke.uk/en-gb,accessible,1,False,False,False,,unverified
-NI733445,K E-H MEDICAL LTD,BT16 1RS,k.co.uk,resolved,https://k.co.uk/,accessible,1,False,False,False,,unverified
-NI733445,K E-H MEDICAL LTD,BT16 1RS,k.uk,resolved,https://k.uk/,access_error,0,False,False,False,,unverified
-16463617,FROSTY FIX LTD,LU2 8DL,frostyfix.com,resolved,https://frostyfix.com/,accessible,1,False,False,False,,unverified
-16463617,FROSTY FIX LTD,LU2 8DL,frosty.com,resolved,https://frosty.com/,access_not_confirmed,0,False,False,False,,unverified
-16463617,FROSTY FIX LTD,LU2 8DL,frosty.uk,resolved,https://frosty.uk/,access_not_confirmed,0,False,False,False,,unverified
-16179932,ASO AUTOMOTIVE LTD,W4 5PY,asoautomotive.co.uk,resolved,https://asoautomotive.co.uk/,accessible,3,False,True,False,https://asoautomotive.co.uk/contact-us/,unverified
-16179932,ASO AUTOMOTIVE LTD,W4 5PY,asoautomotive.com,resolved,https://asoautomotive.com/,access_not_confirmed,0,False,False,False,,unverified
-16179932,ASO AUTOMOTIVE LTD,W4 5PY,aso.co.uk,resolved,https://aso.co.uk/,http_404,0,False,False,False,,unverified
-16179932,ASO AUTOMOTIVE LTD,W4 5PY,aso.com,resolved,https://aso.com/,accessible,4,False,False,False,,unverified
-16179932,ASO AUTOMOTIVE LTD,W4 5PY,aso.uk,resolved,https://aso.uk/,http_404,0,False,False,False,,unverified
-13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjsconsultants.com,resolved,https://bjsconsultants.com/,accessible,3,False,False,False,,unverified
-13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjs.co.uk,resolved,https://academic.oup.com/bjs/,external_redirect,0,False,False,False,,unverified
-13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjs.com,resolved,https://bjs.com/,access_not_confirmed,0,False,False,False,,unverified
-13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjs.uk,resolved,https://bjs.uk/,accessible,1,False,False,False,,unverified
-17404071,AMIRACLEAN LIMITED,ME4 6BA,amiraclean.co.uk,resolved,https://amiraclean.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-SC314100,THE TONTINE HOTEL LIMITED,PA16 8NG,thetontinehotel.co.uk,resolved,https://thetontinehotel.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-SC314100,THE TONTINE HOTEL LIMITED,PA16 8NG,thetontine.com,resolved,https://thetontine.com/,access_not_confirmed,0,False,False,False,,unverified
-SC314100,THE TONTINE HOTEL LIMITED,PA16 8NG,the.com,resolved,https://the.com/,accessible,2,False,False,False,,unverified
-16964777,DRIVETRACK LIMITED,B98 8BP,drivetrack.co.uk,resolved,https://drivetrack.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-16964777,DRIVETRACK LIMITED,B98 8BP,drivetrack.com,resolved,https://drivetrack.com/,access_not_confirmed,0,False,False,False,,unverified
-10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserratholdings.com,resolved,https://montserratholdings.com/,accessible,1,False,False,False,,unverified
-10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserrat.co.uk,resolved,https://montserrat.co.uk/en-gb,accessible,1,False,False,False,,unverified
-10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserrat.com,resolved,https://montserrat.com/,accessible,1,False,False,False,,unverified
-10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserrat.uk,resolved,https://montserrat.uk/,accessible,2,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,ice.co.uk,resolved,https://ice.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,ice.com,resolved,https://www.ice.com/index,accessible,4,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,ice.uk,resolved,https://ice.uk/,accessible,1,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,icelimited.co.uk,resolved,https://icelimited.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,icelimited.com,resolved,https://icelimited.com/,access_not_confirmed,0,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,ic.co.uk,resolved,https://ic.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,ic.com,resolved,https://www.ic.com/en/,accessible,4,False,False,False,,unverified
-09976982,IC&E LIMITED,NE33 3JJ,ic.uk,resolved,https://ic.uk/,accessible,4,False,False,False,,unverified
-SC789452,ENSURED DATA PROTECTION LTD,G77 6FD,ensured.co.uk,resolved,https://ensured.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-SC789452,ENSURED DATA PROTECTION LTD,G77 6FD,ensured.com,resolved,https://www.ensured.com/,accessible,2,False,False,False,,unverified
-15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescentexpress.com,resolved,https://www.hugedomains.com/domain_profile.cfm?d=crescentexpress.com,external_redirect,0,False,False,False,,unverified
-15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescent.co.uk,resolved,https://crescent.co.uk/,accessible,1,False,False,False,,unverified
-15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescent.com,resolved,https://crescent.com/,accessible,4,False,False,False,,unverified
-15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescent.uk,resolved,https://crescent.uk/,access_not_confirmed,0,False,False,False,,unverified
-16382676,CHERYL DARCY LTD,NE37 1EZ,cheryl.co.uk,resolved,https://cheryl.co.uk/,accessible,1,False,False,False,,unverified
-16382676,CHERYL DARCY LTD,NE37 1EZ,cheryl.com,resolved,https://cheryl.com/,access_not_confirmed,0,False,False,False,,unverified
-16382676,CHERYL DARCY LTD,NE37 1EZ,cheryl.uk,resolved,https://cheryl.uk/,access_not_confirmed,0,False,False,False,,unverified
-17402980,WERT RECYCLING MACHINERY (UK) LIMITED,DN5 0SJ,wert.co.uk,resolved,https://wert.co.uk/,accessible,1,False,False,False,,unverified
-17402980,WERT RECYCLING MACHINERY (UK) LIMITED,DN5 0SJ,wert.com,resolved,https://wert.com/,accessible,1,False,False,False,,unverified
-17402980,WERT RECYCLING MACHINERY (UK) LIMITED,DN5 0SJ,wert.uk,resolved,https://wert.uk/,accessible,1,False,False,False,,unverified
-15800292,SIYA HEALTHCARE LTD,OX26 1EP,siya.co.uk,resolved,https://siya.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-15800292,SIYA HEALTHCARE LTD,OX26 1EP,siya.com,resolved,https://www.siya.com/home,accessible,4,False,False,False,,unverified
-15800292,SIYA HEALTHCARE LTD,OX26 1EP,siya.uk,resolved,https://siya.uk/,access_not_confirmed,0,False,False,False,,unverified
-09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachels.co.uk,resolved,https://rachels.co.uk/en-gb,accessible,1,False,False,False,,unverified
-09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachels.uk,resolved,https://rachels.uk/en-gb,accessible,1,False,False,False,,unverified
-09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachel.co.uk,resolved,https://rachel.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachel.com,resolved,http://www.rachel.com/,accessible,1,False,False,False,,unverified
-09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachel.uk,resolved,https://rachel.uk/,access_not_confirmed,0,False,False,False,,unverified
-SC882213,THE TRIM ACADEMY LTD,EH3 6JN,thetrim.com,resolved,https://thetrim.com/,accessible,1,False,False,False,,unverified
-SC882213,THE TRIM ACADEMY LTD,EH3 6JN,the.com,resolved,https://the.com/,accessible,2,False,False,False,,unverified
-15949523,WEMBLEY TAX RETURNS LIMITED,HA0 4PJ,wembley.co.uk,resolved,https://wembley.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-15949523,WEMBLEY TAX RETURNS LIMITED,HA0 4PJ,wembley.com,resolved,https://wembley.com/,access_not_confirmed,0,False,False,False,,unverified
-15949523,WEMBLEY TAX RETURNS LIMITED,HA0 4PJ,wembley.uk,resolved,https://wembley.uk/,access_not_confirmed,0,False,False,False,,unverified
-05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,thescreen.co.uk,resolved,https://thescreen.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,thescreen.com,resolved,https://thescreen.com/,accessible,1,False,False,False,,unverified
-05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,thescreen.uk,resolved,https://thescreen.uk/,content_too_large,0,False,False,False,,unverified
-05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,the.com,resolved,https://the.com/,accessible,2,False,False,False,,unverified
-16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnethouse.com,resolved,https://cygnethouse.com/,access_not_confirmed,0,False,False,False,,unverified
-16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnet.co.uk,resolved,https://cygnet.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnet.com,resolved,https://cygnet.com/,access_not_confirmed,0,False,False,False,,unverified
-16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnet.uk,resolved,https://cygnet.uk/,access_not_confirmed,0,False,False,False,,unverified
-17508538,AMA DESIGNING LIMITED,BL1 3HD,amadesigninglimited.co.uk,resolved,https://amadesigninglimited.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-17508538,AMA DESIGNING LIMITED,BL1 3HD,ama.co.uk,resolved,https://ama.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-17508538,AMA DESIGNING LIMITED,BL1 3HD,ama.com,resolved,https://ama.com/,access_not_confirmed,0,False,False,False,,unverified
-17508538,AMA DESIGNING LIMITED,BL1 3HD,ama.uk,resolved,https://ama.uk/,access_not_confirmed,0,False,False,False,,unverified
-16510357,ASEA BEAUTY LIMITED,IG10 4NB,asea.co.uk,resolved,https://asea.co.uk/,access_not_confirmed,0,False,False,False,,unverified
-16510357,ASEA BEAUTY LIMITED,IG10 4NB,asea.uk,resolved,https://asea.uk/en-gb,accessible,1,False,False,False,,unverified
-10748518,SETTLEDWELL PROPERTIES LIMITED,KT17 1TS,settledwell.com,resolved,https://settledwell.com/,access_not_confirmed,0,False,False,False,,unverified
+CompanyNumber,CompanyName,RegAddress.PostCode,CandidateDomain,DNSStatus,WebsiteURL,WebsiteStatus,PagesChecked,CompanyNumberMatch,CompanyNameMatch,ConflictingCompanyNumbers,PostcodeMatch,EvidenceURLs,IdentityStatus
+SC787793,BHAI EATS LTD,EH6 5NP,bhai.com,resolved,https://www.atom.com/name/Bhai,external_redirect,0,False,False,,False,,unverified
+SC787793,BHAI EATS LTD,EH6 5NP,bhai.uk,resolved,https://bhai.uk/,accessible,1,False,False,,False,,unverified
+15302200,RUBEN MAYE LTD,EX2 8SB,ruben.co.uk,resolved,http://rubenfamilyhome@gmail.com,external_redirect,0,False,False,,False,,unverified
+15302200,RUBEN MAYE LTD,EX2 8SB,ruben.com,resolved,https://ruben.com/,access_not_confirmed,0,False,False,,False,,unverified
+15302200,RUBEN MAYE LTD,EX2 8SB,ruben.uk,resolved,https://ruben.uk/,access_not_confirmed,0,False,False,,False,,unverified
+11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpressgroup.com,resolved,https://modularexpressgroup.com/,accessible,1,False,False,,False,,unverified
+11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpressgroupltd.com,resolved,https://modularexpressgroupltd.com/,accessible,3,False,False,,True,https://modularexpressgroupltd.com/contact,unverified
+11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpress.co.uk,resolved,https://modularexpress.co.uk/,accessible,1,False,False,,False,,unverified
+11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modularexpress.com,resolved,https://modularexpress.com/,accessible,1,False,False,,False,,unverified
+11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modular.co.uk,resolved,https://modular.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modular.com,resolved,https://www.modular.com/,accessible,4,False,False,,False,,unverified
+11164986,MODULAR EXPRESS GROUP LTD,W4 5YA,modular.uk,resolved,https://modular.uk/,access_not_confirmed,0,False,False,,False,,unverified
+10203912,VSCENE LIMITED,NG16 2UP,vscene.co.uk,resolved,https://www.vscene.co.uk/,accessible,1,False,True,,False,https://www.vscene.co.uk/,unverified
+10203912,VSCENE LIMITED,NG16 2UP,vscene.com,resolved,https://vscene.com/,accessible,1,False,False,,False,,unverified
+00621017,BURKARD MANUFACTURING COMPANY LIMITED,WD3 1PJ,burkard.co.uk,resolved,https://burkard.co.uk/,accessible,1,False,False,,True,https://burkard.co.uk/,unverified
+00621017,BURKARD MANUFACTURING COMPANY LIMITED,WD3 1PJ,burkard.com,resolved,http://www.burkard.com/,external_redirect,0,False,False,,False,,unverified
+00621017,BURKARD MANUFACTURING COMPANY LIMITED,WD3 1PJ,burkard.uk,resolved,https://burkard.uk/,access_not_confirmed,0,False,False,,False,,unverified
+06771617,CLIFFORD NOMINEES LIMITED,HA5 3FQ,clifford.co.uk,resolved,https://clifford.co.uk/,accessible,1,False,False,,False,,unverified
+06771617,CLIFFORD NOMINEES LIMITED,HA5 3FQ,clifford.com,resolved,https://www.directed.com,external_redirect,0,False,False,,False,,unverified
+06771617,CLIFFORD NOMINEES LIMITED,HA5 3FQ,clifford.uk,resolved,https://clifford.uk/,access_not_confirmed,0,False,False,,False,,unverified
+02456309,CARCO LIMITED,BS4 3QB,carco.co.uk,resolved,https://carco.co.uk/,accessible,1,False,False,,False,,unverified
+02456309,CARCO LIMITED,BS4 3QB,carco.com,resolved,https://carco.com/,accessible,1,False,False,,False,,unverified
+02456309,CARCO LIMITED,BS4 3QB,carco.uk,resolved,https://carco.uk/,access_not_confirmed,0,False,False,,False,,unverified
+15096490,SJE CATERING LTD,TN28 8RB,sje.co.uk,resolved,https://sje.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+15096490,SJE CATERING LTD,TN28 8RB,sje.com,resolved,https://www.sje.com/,accessible,1,False,False,,False,,unverified
+15096490,SJE CATERING LTD,TN28 8RB,sje.uk,resolved,https://sje.uk/en-gb,accessible,1,False,False,,False,,unverified
+NI733445,K E-H MEDICAL LTD,BT16 1RS,ke.co.uk,resolved,https://ke.co.uk/en-gb,accessible,1,False,False,,False,,unverified
+NI733445,K E-H MEDICAL LTD,BT16 1RS,ke.com,resolved,https://ke.com/,access_not_confirmed,0,False,False,,False,,unverified
+NI733445,K E-H MEDICAL LTD,BT16 1RS,ke.uk,resolved,https://ke.uk/en-gb,accessible,1,False,False,,False,,unverified
+NI733445,K E-H MEDICAL LTD,BT16 1RS,k.co.uk,resolved,https://k.co.uk/,accessible,1,False,False,,False,,unverified
+NI733445,K E-H MEDICAL LTD,BT16 1RS,k.uk,resolved,https://k.uk/,access_error,0,False,False,,False,,unverified
+16463617,FROSTY FIX LTD,LU2 8DL,frostyfix.com,resolved,https://frostyfix.com/,accessible,1,False,False,,False,,unverified
+16463617,FROSTY FIX LTD,LU2 8DL,frosty.com,resolved,https://frosty.com/,access_not_confirmed,0,False,False,,False,,unverified
+16463617,FROSTY FIX LTD,LU2 8DL,frosty.uk,resolved,https://frosty.uk/,access_not_confirmed,0,False,False,,False,,unverified
+16179932,ASO AUTOMOTIVE LTD,W4 5PY,asoautomotive.co.uk,resolved,https://asoautomotive.co.uk/,accessible,3,False,True,,False,https://asoautomotive.co.uk/contact-us/,unverified
+16179932,ASO AUTOMOTIVE LTD,W4 5PY,asoautomotive.com,resolved,https://asoautomotive.com/,access_not_confirmed,0,False,False,,False,,unverified
+16179932,ASO AUTOMOTIVE LTD,W4 5PY,aso.co.uk,resolved,https://aso.co.uk/,http_404,0,False,False,,False,,unverified
+16179932,ASO AUTOMOTIVE LTD,W4 5PY,aso.com,resolved,https://aso.com/,accessible,4,False,False,,False,,unverified
+16179932,ASO AUTOMOTIVE LTD,W4 5PY,aso.uk,resolved,https://aso.uk/,http_404,0,False,False,,False,,unverified
+13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjsconsultants.com,resolved,https://bjsconsultants.com/,accessible,3,False,False,,False,,unverified
+13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjs.co.uk,resolved,https://academic.oup.com/bjs/,external_redirect,0,False,False,,False,,unverified
+13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjs.com,resolved,https://bjs.com/,access_not_confirmed,0,False,False,,False,,unverified
+13013742,BJS CONSULTANTS LIMITED,W1T 7NF,bjs.uk,resolved,https://bjs.uk/,accessible,1,False,False,,False,,unverified
+17404071,AMIRACLEAN LIMITED,ME4 6BA,amiraclean.co.uk,resolved,https://amiraclean.co.uk/,accessible,4,True,True,,True,https://amiraclean.co.uk/ | https://amiraclean.co.uk/about/ | https://amiraclean.co.uk/contact/ | https://amiraclean.co.uk/terms-of-service/,strong_candidate
+SC314100,THE TONTINE HOTEL LIMITED,PA16 8NG,thetontinehotel.co.uk,resolved,https://thetontinehotel.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+SC314100,THE TONTINE HOTEL LIMITED,PA16 8NG,thetontine.com,resolved,https://thetontine.com/,access_not_confirmed,0,False,False,,False,,unverified
+SC314100,THE TONTINE HOTEL LIMITED,PA16 8NG,the.com,resolved,https://the.com/,accessible,2,False,False,,False,,unverified
+16964777,DRIVETRACK LIMITED,B98 8BP,drivetrack.co.uk,resolved,https://drivetrack.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+16964777,DRIVETRACK LIMITED,B98 8BP,drivetrack.com,resolved,https://drivetrack.com/,access_not_confirmed,0,False,False,,False,,unverified
+10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserratholdings.com,resolved,https://montserratholdings.com/,accessible,1,False,False,,False,,unverified
+10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserrat.co.uk,resolved,https://montserrat.co.uk/en-gb,accessible,1,False,False,,False,,unverified
+10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserrat.com,resolved,https://montserrat.com/,accessible,1,False,False,,False,,unverified
+10448448,MONTSERRAT HOLDINGS LIMITED,NW6 1SW,montserrat.uk,resolved,https://montserrat.uk/,accessible,2,False,False,,False,,unverified
+09976982,IC&E LIMITED,NE33 3JJ,ice.co.uk,resolved,https://ice.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+09976982,IC&E LIMITED,NE33 3JJ,ice.com,resolved,https://www.ice.com/index,accessible,4,False,False,,False,,unverified
+09976982,IC&E LIMITED,NE33 3JJ,ice.uk,resolved,https://ice.uk/,accessible,1,False,False,,False,,unverified
+09976982,IC&E LIMITED,NE33 3JJ,icelimited.co.uk,resolved,https://icelimited.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+09976982,IC&E LIMITED,NE33 3JJ,icelimited.com,resolved,https://icelimited.com/,access_not_confirmed,0,False,False,,False,,unverified
+09976982,IC&E LIMITED,NE33 3JJ,ic.co.uk,resolved,https://ic.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+09976982,IC&E LIMITED,NE33 3JJ,ic.com,resolved,https://www.ic.com/en/,accessible,4,False,False,8419879,False,,identity_conflict
+09976982,IC&E LIMITED,NE33 3JJ,ic.uk,resolved,https://ic.uk/,accessible,4,False,False,03079542,False,,identity_conflict
+SC789452,ENSURED DATA PROTECTION LTD,G77 6FD,ensured.co.uk,resolved,https://ensured.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+SC789452,ENSURED DATA PROTECTION LTD,G77 6FD,ensured.com,resolved,https://www.ensured.com/,accessible,2,False,False,,False,,unverified
+15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescentexpress.com,resolved,https://www.hugedomains.com/domain_profile.cfm?d=crescentexpress.com,external_redirect,0,False,False,,False,,unverified
+15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescent.co.uk,resolved,https://crescent.co.uk/,accessible,1,False,False,,False,,unverified
+15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescent.com,resolved,https://crescent.com/,accessible,4,False,False,,False,,unverified
+15281345,CRESCENT EXPRESS LTD,BH1 4AE,crescent.uk,resolved,https://crescent.uk/,access_not_confirmed,0,False,False,,False,,unverified
+16382676,CHERYL DARCY LTD,NE37 1EZ,cheryl.co.uk,resolved,https://cheryl.co.uk/,accessible,1,False,False,,False,,unverified
+16382676,CHERYL DARCY LTD,NE37 1EZ,cheryl.com,resolved,https://cheryl.com/,access_not_confirmed,0,False,False,,False,,unverified
+16382676,CHERYL DARCY LTD,NE37 1EZ,cheryl.uk,resolved,https://cheryl.uk/,access_not_confirmed,0,False,False,,False,,unverified
+17402980,WERT RECYCLING MACHINERY (UK) LIMITED,DN5 0SJ,wert.co.uk,resolved,https://wert.co.uk/,accessible,1,False,False,,False,,unverified
+17402980,WERT RECYCLING MACHINERY (UK) LIMITED,DN5 0SJ,wert.com,resolved,https://wert.com/,accessible,1,False,False,,False,,unverified
+17402980,WERT RECYCLING MACHINERY (UK) LIMITED,DN5 0SJ,wert.uk,resolved,https://wert.uk/,accessible,1,False,False,,False,,unverified
+15800292,SIYA HEALTHCARE LTD,OX26 1EP,siya.co.uk,resolved,https://siya.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+15800292,SIYA HEALTHCARE LTD,OX26 1EP,siya.com,resolved,https://www.siya.com/home,accessible,4,False,False,,False,,unverified
+15800292,SIYA HEALTHCARE LTD,OX26 1EP,siya.uk,resolved,https://siya.uk/,access_not_confirmed,0,False,False,,False,,unverified
+09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachels.co.uk,resolved,https://rachels.co.uk/en-gb,accessible,1,False,False,,False,,unverified
+09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachels.uk,resolved,https://rachels.uk/en-gb,accessible,1,False,False,,False,,unverified
+09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachel.co.uk,resolved,https://rachel.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachel.com,resolved,https://rachel.com/,access_not_confirmed,0,False,False,,False,,unverified
+09874409,RACHEL'S FITNESS FOR MUMS LIMITED,HG1 1ND,rachel.uk,resolved,https://rachel.uk/,access_not_confirmed,0,False,False,,False,,unverified
+SC882213,THE TRIM ACADEMY LTD,EH3 6JN,thetrim.com,resolved,https://thetrim.com/,accessible,1,False,False,,False,,unverified
+SC882213,THE TRIM ACADEMY LTD,EH3 6JN,the.com,resolved,https://the.com/,accessible,2,False,False,,False,,unverified
+15949523,WEMBLEY TAX RETURNS LIMITED,HA0 4PJ,wembley.co.uk,resolved,https://wembley.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+15949523,WEMBLEY TAX RETURNS LIMITED,HA0 4PJ,wembley.com,resolved,https://wembley.com/,access_not_confirmed,0,False,False,,False,,unverified
+15949523,WEMBLEY TAX RETURNS LIMITED,HA0 4PJ,wembley.uk,resolved,https://wembley.uk/,access_not_confirmed,0,False,False,,False,,unverified
+05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,thescreen.co.uk,resolved,https://thescreen.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,thescreen.com,resolved,https://thescreen.com/,accessible,1,False,False,,False,,unverified
+05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,thescreen.uk,resolved,https://thescreen.uk/,content_too_large,0,False,False,,False,,unverified
+05414645,THE SCREEN TALENT AGENCY LTD,BH2 6NE,the.com,resolved,https://the.com/,accessible,2,False,False,,False,,unverified
+16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnethouse.com,resolved,https://cygnethouse.com/,access_not_confirmed,0,False,False,,False,,unverified
+16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnet.co.uk,resolved,https://cygnet.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnet.com,resolved,https://cygnet.com/,access_not_confirmed,0,False,False,,False,,unverified
+16809237,CYGNET HOUSE VETS LTD,TA1 3DU,cygnet.uk,resolved,https://cygnet.uk/,access_not_confirmed,0,False,False,,False,,unverified
+17508538,AMA DESIGNING LIMITED,BL1 3HD,amadesigninglimited.co.uk,resolved,https://amadesigninglimited.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+17508538,AMA DESIGNING LIMITED,BL1 3HD,ama.co.uk,resolved,https://ama.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+17508538,AMA DESIGNING LIMITED,BL1 3HD,ama.com,resolved,https://ama.com/,access_not_confirmed,0,False,False,,False,,unverified
+17508538,AMA DESIGNING LIMITED,BL1 3HD,ama.uk,resolved,https://ama.uk/,access_not_confirmed,0,False,False,,False,,unverified
+16510357,ASEA BEAUTY LIMITED,IG10 4NB,asea.co.uk,resolved,https://asea.co.uk/,access_not_confirmed,0,False,False,,False,,unverified
+16510357,ASEA BEAUTY LIMITED,IG10 4NB,asea.uk,resolved,https://asea.uk/en-gb,accessible,1,False,False,,False,,unverified
+10748518,SETTLEDWELL PROPERTIES LIMITED,KT17 1TS,settledwell.com,resolved,https://settledwell.com/,access_not_confirmed,0,False,False,,False,,unverified

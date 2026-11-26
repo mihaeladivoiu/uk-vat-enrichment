@@ -34,8 +34,8 @@ def normalize_text(value: str) -> str:
 
 
 def find_conflicting_company_numbers(
-    text: str,
-    expected_number: str,
+        text: str,
+        expected_number: str,
 ) -> list[str]:
     pattern = re.compile(
         r"\b(?:COMPANY\s+(?:REGISTRATION\s+)?|"
@@ -67,9 +67,9 @@ def is_expected_host(url: str, domain: str) -> bool:
 
 
 def is_allowed(
-    session: requests.Session,
-    url: str,
-    domain: str,
+        session: requests.Session,
+        url: str,
+        domain: str,
 ) -> bool:
     robots_url = urljoin(url, "/robots.txt")
 
@@ -109,9 +109,9 @@ def is_allowed(
 
 
 def fetch_page(
-    session: requests.Session,
-    url: str,
-    domain: str,
+        session: requests.Session,
+        url: str,
+        domain: str,
 ) -> tuple[str, str, BeautifulSoup | None]:
     try:
         for _ in range(MAX_REDIRECTS + 1):
@@ -122,10 +122,10 @@ def fetch_page(
                 return "access_not_confirmed", url, None
 
             with session.get(
-                url,
-                timeout=REQUEST_TIMEOUT,
-                allow_redirects=False,
-                stream=True,
+                    url,
+                    timeout=REQUEST_TIMEOUT,
+                    allow_redirects=False,
+                    stream=True,
             ) as response:
                 if response.is_redirect:
                     location = response.headers.get("Location")
@@ -161,9 +161,9 @@ def fetch_page(
 
 
 def extract_relevant_links(
-    soup: BeautifulSoup,
-    page_url: str,
-    domain: str,
+        soup: BeautifulSoup,
+        page_url: str,
+        domain: str,
 ) -> list[str]:
     links = []
     seen = set()
@@ -196,7 +196,7 @@ def extract_relevant_links(
 
 
 def inspect_website(
-    company: dict[str, str],
+        company: dict[str, str],
 ) -> tuple[dict[str, str], list[dict[str, str]]]:
     domain = company["CandidateDomain"].strip()
     homepage = f"https://{domain}/"
@@ -322,11 +322,11 @@ def inspect_website(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Inspect candidate company websites.")
-    parser.add_argument("--limit", type=int, default=10)
+    parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--domain", type=str)
     args = parser.parse_args()
 
-    if args.limit < 1:
+    if args.limit is not None and args.limit < 1:
         parser.error("--limit must be positive")
 
     with INPUT_PATH.open("r", encoding="utf-8-sig", newline="") as file:
@@ -347,10 +347,11 @@ def main() -> None:
             row
             for row in reader
             if row["DNSStatus"] == "resolved"
-            and (args.domain is None or row["CandidateDomain"] == args.domain)
+               and (args.domain is None or row["CandidateDomain"] == args.domain)
         ]
 
-    candidates = candidates[: args.limit]
+    if args.limit is not None:
+        candidates = candidates[: args.limit]
 
     if not candidates:
         print("No matching resolved domains found.")

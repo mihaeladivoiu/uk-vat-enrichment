@@ -1,5 +1,5 @@
 CompanyNumber,CompanyName,CandidateDomain,VATNumber,SourceURL,EvidenceContext,IdentityStatus
-09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",unverified
-09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/about/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",unverified
-09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/contact-us/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",unverified
-09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/category/legal/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",unverified
+09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",identity_conflict
+09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/about/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",identity_conflict
+09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/contact-us/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",identity_conflict
+09976982,IC&E LIMITED,ic.uk,GB278923705,https://ic.uk/category/legal/,"Hanley, Stoke-on-Trent ST1 3NR. Reg No. 03079542. VAT No. GB 278 923 705. All trademarks and logos appearing on the site are the prop",identity_conflict
